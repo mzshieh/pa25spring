@@ -2,7 +2,7 @@
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    +   To be announced.
+    +   [洪晙宸](mailto:andyhung.cs13@nycu.edu.tw) andyhung.cs13@nycu.edu.tw
 +   Lectures will be given in ITSC PC4 classroom in Kuang Fu Campus 
 +   Online lectures will be given via [Google Meet](https://meet.google.com/aoi-sncf-qsi)
     +  Link: https://meet.google.com/aoi-sncf-qsi
