@@ -25,7 +25,7 @@
 
 ## Lecture Notes
 
-TBA
++ [Lecture 1](https://hackmd.io/@truckski/HyLL59Lj1e)
 
 ## Past Lecture Notes
 
