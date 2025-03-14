@@ -6,6 +6,7 @@
 +   Lectures will be given in ITSC PC4 classroom in Kuang Fu Campus 
 +   Online lectures will be given via [Google Meet](https://meet.google.com/aoi-sncf-qsi)
     +  Link: https://meet.google.com/aoi-sncf-qsi
+    +  [Recordings](https://drive.google.com/drive/folders/1WPkdSG_wkCua_nWgcRiPBmlNQBVsfsmA?usp=drive_link)
     +  Please use your NYCU E-mail account
 
 ## Course Objectives
