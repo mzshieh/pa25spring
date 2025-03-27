@@ -59,7 +59,8 @@
 
 ## Term Project
 
-TBA
+1. Midterm:
+   + [Specification](https://andyjjrt.notion.site/1132-Python-1bad9de3b3ac80a49596eacc9f894398)
 
 ## Past Term Poject
 
