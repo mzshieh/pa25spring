@@ -62,6 +62,8 @@
 
 1. Midterm:
    + [Specification](https://andyjjrt.notion.site/1132-Python-1bad9de3b3ac80a49596eacc9f894398)
+2. Final:
+   + [Specification](https://www.notion.so/andyjjrt/1132-Python-1e4d9de3b3ac80caa5afe4aa833d5d67)
 
 ## Past Term Poject
 
