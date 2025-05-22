@@ -30,7 +30,8 @@
 + [Lecture 2](https://hackmd.io/@truckski/BJxLT0y3Jg)
 + [Lecture 3](https://hackmd.io/@truckski/HkCuxftnye)
 + [Lecture 4](https://hackmd.io/@truckski/HJYGtWRRJx)
-+ [Selenium](https://hackmd.io/@truckski/HyffV1XWle)
++ [Lecture 5 (Selenium)](https://hackmd.io/@truckski/HyffV1XWle)
++ [Lecture 6](https://hackmd.io/@truckski/rJ4ZQQhWxl)
 
 ## Past Lecture Notes
 
